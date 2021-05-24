@@ -4,3 +4,7 @@ This is test file for first Github repository push
 ** First git Commit done (Snapshot taken)
 
 We are making changes after first git commit.
+
+** Second git Commit done (Snapshot taken)
+
+We are making changes after second git commit.
